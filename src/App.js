@@ -1,5 +1,4 @@
 import Search from "./Search";
-import "./App.css";
 
 const App = () => {
   return (
