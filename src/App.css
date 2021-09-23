@@ -1,0 +1,57 @@
+.number {
+  margin: 0 auto;
+  display: block;
+  margin-top: 20px;
+  font-size: 40px;
+}
+
+.result {
+  text-align: center;
+  font-size: 40px;
+}
+
+.button {
+  margin: 0 auto;
+  display: block;
+  margin-top: 20px;
+  font-size: 40px;
+}
+
+.el {
+  font-size: 50px;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.input {
+  font-size: 30px;
+  color: #f4511e;
+  font-weight: bold;
+}
+
+.btn {
+  font-size: 30px;
+  color: #f4511e;
+}
+
+.btn {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 28px;
+  padding: 10px;
+  width: 150px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.btn:hover {
+  padding-right: 50px;
+}
